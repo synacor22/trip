@@ -1,0 +1,24 @@
+
+Budget 7500+3700+8000+5000+4900 = 29100
+*Train - 7500
+Pune to Okha - 700+2715
+Okha to Veraval - 547
+Veraval+Pune - 2075+1500
+
+*Hotel - 3700
+Okha - 700
+Somnath - 1000
+Gir - 1000
+Diu - 1000
+
+*Transport - 8000
+OKha - 1000
+Somnath - 1000
+Gir+Diu - 5000
+ADI - 1000
+
+Activity - 5000
+Safari(2) - 3000rs
+Water Sports - 2000rs
+
+Dineer - 700*7 =4900
